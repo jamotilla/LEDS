@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Laboratorio de Dinámicas y Estructuras Sociales de la Facultad del Hábitat de la Universidad Autónoma de San Luis Potosí
 
 # Full Name (for SEO)
 first_name: Nelson

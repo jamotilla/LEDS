@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Laboratorio de Dinámicas y Estructuras Sociales de la Facultad del Hábitat de la Universidad Autónoma de San Luis Potosí
+title: Dr. José Antonio Motilla Chávez
 
 # Full Name (for SEO)
 first_name: José Antonio

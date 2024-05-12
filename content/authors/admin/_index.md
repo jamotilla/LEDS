@@ -10,32 +10,33 @@ last_name: Bighetti
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Profesor Investigador de Tiempo Completo
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Facultad del Hábitat de la Universidad Autónoma de San Luis Potosí 
+    url: 'https://investigadores.uaslp.mx/InvestigadorProfile/4mAAAA%3d%3d'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Estoy intereasado en el estudio de la estructura y dinámica de las sociedades a lo largo del tiempo, mediante el empleo de herramientas computacionales.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ciencia de datos
+  - Historia conceptual
+  - Sociología del arte
+  - Emergencia, desarrollo y crisis de la modernidad
 
-education:
+Formación académica:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Doctorado en Historia
+      institution: Universidad Nacional Autónoma de México 
+      year: 2020
+    - course: Maestría en Historia 
+      institution: El Colegio de San Luis, A.C.
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Licenciatura en Historia
+      institution: Universidad Autónoma de San Luis Potosí 
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

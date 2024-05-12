@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Laboratorio de Dinámicas y Estructuras Sociales de la Facultad del Hábitat-UASLP
 
 # Full name (for SEO)
-first_name: Alice
+first_name: Laboratorio de Dinámicas y Estructuras Sociales 
 last_name: Wu
 
 # Username (this should match the folder name)

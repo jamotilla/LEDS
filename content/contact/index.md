@@ -16,16 +16,16 @@ sections:
         street: Niño Artillero 150
         city: San Luis Potosí
         region: San Luis Potosí 
-        postcode: '94305'
+        postcode: '78290'
         country: México
         country_code: México
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '22.143018888230603'
+        longitude: '-101.01444821707842'
       directions: Planta baja del edificio del Instituto de Investigación y Posgrado de la Facultad del Hábitat
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Lunes a viernes de 10:00 to 13:00'
+        
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments

@@ -3,8 +3,8 @@
 title: Laboratorio de Dinámicas y Estructuras Sociales de la Facultad del Hábitat de la Universidad Autónoma de San Luis Potosí
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: José Antonio
+last_name: Motilla Chávez
 
 # Is this the primary user of the site?
 superuser: true

@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Bienvenido al Laboratorio 
+        content: Écha un vistazo a los proyectos en los que estamos trabajando...
         align: center
         background:
           image:

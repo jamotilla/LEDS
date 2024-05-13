@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: ¡Colabora con nosotros!
+        content: '¡Pónte en contacto con nosotros!'
         align: right
         background:
           image:

@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: ¡Colabora con nosotros!
-        content: '¡Pónte en contacto con nosotros!'
+      - title: ¡Construimos conocimiento de frontera!
+        content: '¡Colabora con nosotros!'
         align: right
         background:
           image:

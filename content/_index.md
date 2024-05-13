@@ -8,18 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Laboratorio de 
+        Dinámicas y Estructuras Sociales
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        El **Laboratorio de Dinámicas y Estructuras Sociales (LEDS)** de la Facultad del Hábitat de la UASLP, tiene como objetivo principal generar conocimiento de vanguardia que contribuya a comprender la estructura y dinámica de las sociedades a lo largo del tiempo, con especial atención en el surgimiento, desarrollo y crisis de la modernidad.
   
   - block: collection
     content:
-      title: Latest News
+      title: Últimas noticias
       subtitle:
       text:
       count: 5

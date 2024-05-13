@@ -1,16 +1,20 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Escuela de Verano Estructuras y Dinámicas Sociales 2024
+date: 2024-05-13
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Escuela de Verano Estructuras y Dinámicas Sociales 2020 del Laboratorio de Estructuras y Dinámicas Sociales FH-UASLP
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+La Facultad del Hábitat de la UASLP a través del Laboratorio de Estructuras y Dinámicas Sociales, el Instituto de Física de la UASLP y el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la UNAM, convocan a la Escuela de Verano “Estructuras y dinámicas sociales”, que se llevará a cabo en la ciudad de San Luis Potosí del **25 al 28 de junio de 2024**.
+ 
+Es organizada dentro del proyecto “Análisis de redes relacionales que subyacen a textos históricos: un enfoque desde la teoría de gráficas” (CF-2023-G-941), apoyado por la convocatoria Ciencia de Frontera 2023 del CONHACYT.
+ 
+La escuela tiene como objetivo reflexionar sobre la implementación de herramientas computacionales a partir de la teoría de gráficas para el estudio de procesos históricos. Buscamos explorar nuevos caminos que nos permitan comprender la estructura y dinámica de las sociedades en diferentes momentos históricos, a partir de la reconstrucción de los entramados sociales, por medio del análisis de fuentes primarias desde las perspectivas y abordajes de la Ciencia de Datos, la Teoría de Gráficas, y de los enfoques de la historiografía contemporánea.
+ 
+En esta ocasión los ejes temáticos se centran en la teoría de gráficas, procesamiento de lenguaje natural e historiografía. La dinámica del encuentro consiste en ofrecer talleres por la mañana, y conferencias por la tarde, cuya temática girará entorno a los ejes planteados.
+ 
+El evento convocará a estudiantes e investigadores interesados en alguno de nuestros ejes. Se llevará a cabo de manera presencial y posiblemente transmitiremos las mesas de discusión en línea. 

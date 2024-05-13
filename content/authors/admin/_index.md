@@ -73,6 +73,7 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Licenciado en historia por la Universidad Autónoma de San Luis Potosí, maestro en historia por El Colegio de San Luis, A.C., doctor en historia por la Universidad Nacional Autónoma de México. Miembro del consejo editorial de la revista académica de humanidades digitales e historia digital "The Programming Historian". Miembro del capítulo México de la Asociación Internacional de Críticos de Arte (AICA), financiada por UNESCO. Curador honorario de la biblioteca "Ricardo B. Anaya" de San Luis Potosí, México. Coordinador del Laboratorio de Dinámicas y Estructuras Sociales de la Facultad del Hábitat de la UASLP, líder del Cuerpo Académico "Arte, cultura y patrimonio" de la Facultad del Hábitat de la UASLP (UASLP-CA-297).
+

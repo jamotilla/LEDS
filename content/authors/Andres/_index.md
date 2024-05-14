@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Laboratorio de Dinámicas y Estructuras Sociales de la Facultad del Hábitat-UASLP
+title: Mtro. Andrés Zuccolotto Villalobos 
 
 # Full name (for SEO)
-first_name: Laboratorio de Dinámicas y Estructuras Sociales 
-last_name: Wu
+first_name: Andrés 
+last_name: Zuccolotto Villalobos
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Andres
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Profesor Investigador de Tiempo Completo de la Facultad del Hábitat
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Universidad Autónoma de San Luis Potosí 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Conservación y restauración de bienes culturales muebles
+  - Métodos computacionales para el análisis espacial
+  - Historiografía contemporánea
 
 education:
   courses:

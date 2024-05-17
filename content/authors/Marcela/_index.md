@@ -26,7 +26,7 @@ bio: Mis intereses de investigación se centran en el estudio de correspondencia
 
 interests:
   - Conservación y restauración de bienes culturales muebles
-   - Historiografía contemporánea
+  - Historiografía contemporánea
 
 education:
   courses:

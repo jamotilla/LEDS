@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Procesamiento y análisis de fuentes primarias ☕️
+        content: 'Construimos sets de datos a partir de fuentes históricas!'
         align: left
         background:
           image:

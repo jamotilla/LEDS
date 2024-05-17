@@ -45,7 +45,7 @@ Formación académica:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'antonio.motilla@uaslp.mx'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen

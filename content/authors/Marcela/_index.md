@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Mtro. Andrés Zuccolotto Villalobos 
+title: Marcela Lomelí Jasso
 
 # Full name (for SEO)
-first_name: Andrés 
-last_name: Zuccolotto Villalobos
+first_name: Marcela
+last_name: Lomelí Jasso
 
 # Username (this should match the folder name)
 authors:
-  - Andres
+  - Marcela
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Profesor Investigador de Tiempo Completo de la Facultad del Hábitat
+role: Estudiante de la licenciatura en Conservación y Restauración de Bienes Culturales Muebles
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +22,22 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses de investigación se centran en el estudio de correspondencias personales
 
 interests:
   - Conservación y restauración de bienes culturales muebles
-  - Métodos computacionales para el análisis espacial
-  - Historiografía contemporánea
+   - Historiografía contemporánea
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: 
+      institution: 
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 
+      institution: 
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 
+      institution: 
       year: 2008
 
 # Social/Academic Networking
@@ -70,8 +69,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
   
----
 
 

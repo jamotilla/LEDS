@@ -2,7 +2,7 @@
 title: Escuela de Verano Estructuras y Dinámicas Sociales 
 
 event: Escuela de Verano 
-event_url: https://example.org](https://galanve.github.io/estructuraydinamicasocial/
+event_url: 'Convocatoria: [**Escuela de Verano 2024**](https://galanve.github.io/estructuraydinamicasocial/)'
 
 location: Facultad del Hábitat
 address:
@@ -39,8 +39,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Convocatoria: [**Escuela de Verano 2024**](https://galanve.github.io/estructuraydinamicasocial/)'
+  focal_point: Center
 
 url_code: ''
 url_pdf: ''

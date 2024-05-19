@@ -1,45 +1,45 @@
 ---
 # Display name
-title: Mtro. Andrés Zuccolotto Villalobos 
+title: Dr. Edgardo Galán Vásquez 
 
 # Full name (for SEO)
 first_name: Edgardo 
-last_name: Galán Vazquez
+last_name: Galán Vásquez
 
 # Username (this should match the folder name)
 authors:
-  - Andres
+  - Edgardo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Profesor Investigador de Tiempo Completo de la Facultad del Hábitat
+role: Investigador Asociado C de tiempo completo al Departamento de Ingeniería de Sistemas Computacionales y Automatización del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad Autónoma de San Luis Potosí 
-    url: ''
+  - name: IIMAS-UNAM
+    url: 'https://www.fciencias.unam.mx/directorio/112948'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sus líneas de investigación se centran en el área de la Bioinformática, Biología de sistemas y Ciencia de datos, enfocadas en estudiar la expresión genética de diferentes organismos. En este sentido, estudia la reconstrucción y análisis de redes de regulación genética y de co-expresión genética, mediante el uso de estrategias de aprendizaje automático. SNII I.
 
 interests:
-  - Conservación y restauración de bienes culturales muebles
-  - Métodos computacionales para el análisis espacial
-  - Historiografía contemporánea
+  - Bioinformática
+  - Ciencia de datos 
+  - Biología de sistemas
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Doctorado en Ciencias en la Especialidad de Biotecnología de Plantas
+      institution: Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional - Unidad Irapuato México
+      year: 2017
+    - course: Maestría en Ciencias en la Especialidad de Biotecnología de Plantas
+      institution: Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional - Unidad Irapuato México
+      year: 
+    - course: Ingeniero Químico con Especialidad en Alimentos
+      institution: Instituto Tecnológico de Oaxaca
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:edgardo.galan@iimas.unam.mx'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Investigadores asociados
   
 ---
 
